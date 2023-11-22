@@ -34,6 +34,39 @@ a:hover{
 #refer{
 background-color:
 #e5feff;
+width:  180px;
+height:  60px;
+color:#6E71CC;
+border: none;
+border-radius: 10px;
+
+font-family: sans-serif;
+
+
+}
+#refer:hover{
+    cursor: pointer;
+    background-color: #6a6c856b;
+}
+#sign{
+    height: 50px;
+    width: 80px;
+    color: #ed0331;
+    background-color: white;
+    border-color: red;
+    border-radius:10px  ;
+    margin-left: 10px;
+
+}
+#sign:hover{
+cursor: pointer;
+background-color: #d49aa555;
+
+}
+
+#refer{
+background-color:
+#e5feff;
 width:  126.57px;
 height:  60px;
 color:#6E71CC;
